@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://sercankulcu.github.io/courses-pdfs/Sercan_Kulcu_CV.pdf</loc></url>
-  <url><loc>https://sercankulcu.github.io/courses-pdfs/agt/Algoritmik-Oyun-Kurami.html</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/agt/Algoritmik-Oyun-Kurami.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/agt/pdf/Bolum_00_Hazirlik.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/agt/pdf/Bolum_01_Karar_Kurami.pdf</loc></url>
@@ -19,7 +18,6 @@
   <url><loc>https://sercankulcu.github.io/courses-pdfs/agt/pdf/Bolum_12_Davranissal_ve_Kolektif_Karar.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/agt/pdf/Bolum_13_Ogrenme_ve_Adaptasyon.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/agt/pdf/Bolum_14_Gelecek_Yonelimler.pdf</loc></url>
-  <url><loc>https://sercankulcu.github.io/courses-pdfs/algorithms/Algoritmalar.html</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/algorithms/Algoritmalar.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/algorithms/pdf/Bolum_01_01_Giris.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/algorithms/pdf/Bolum_01_02_Algoritma_Karmasikligi.pdf</loc></url>
@@ -41,9 +39,7 @@
   <url><loc>https://sercankulcu.github.io/courses-pdfs/algorithms/pdf/Bolum_12_Rastgele_Algoritmalar.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/algorithms/pdf/Bolum_13_Cevrim_Ici_Algoritmalar.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/algorithms/pdf/Bolum_14_Paralel_Algoritmalar.pdf</loc></url>
-  <url><loc>https://sercankulcu.github.io/courses-pdfs/c/Programming-with-C.html</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/c/Programming-with-C.pdf</loc></url>
-  <url><loc>https://sercankulcu.github.io/courses-pdfs/computer/Bilgisayar-ve-Programlamaya-Giris.html</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/computer/Bilgisayar-ve-Programlamaya-Giris.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/computer/pdf/Bolum_01_01_Temel_Kavramlar.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/computer/pdf/Bolum_01_02_Bilgisayar_Donanimi.pdf</loc></url>
@@ -66,9 +62,7 @@
   <url><loc>https://sercankulcu.github.io/courses-pdfs/computer/pdf/Bolum_10_Diziler.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/computer/pdf/Bolum_11_Dizgiler.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/computer/pdf/Bolum_12_Ozyineleme.pdf</loc></url>
-  <url><loc>https://sercankulcu.github.io/courses-pdfs/data_structures/Data-Structures.html</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/data_structures/Data-Structures.pdf</loc></url>
-  <url><loc>https://sercankulcu.github.io/courses-pdfs/data_structures/Veri-Yapilari.html</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/data_structures/Veri-Yapilari.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/data_structures/pdf/Bolum_01_Giris.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/data_structures/pdf/Bolum_02_Algoritma_Analizi.pdf</loc></url>
@@ -98,7 +92,6 @@
   <url><loc>https://sercankulcu.github.io/courses-pdfs/data_structures/pdf/Chapter_12_Maps_and_Hash_Tables.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/data_structures/pdf/Chapter_13_Sets_and_Disjoint_Sets.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/data_structures/pdf/Chapter_14_Graphs.pdf</loc></url>
-  <url><loc>https://sercankulcu.github.io/courses-pdfs/dsa_c/C-ile-Veri-Yapilari-ve-Algoritmalar.html</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/dsa_c/C-ile-Veri-Yapilari-ve-Algoritmalar.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/dsa_c/pdf/Bolum_01_Giris_ve_Algoritma_Analizi.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/dsa_c/pdf/Bolum_02_Diziler_ve_Yapilar.pdf</loc></url>
@@ -120,7 +113,6 @@
   <url><loc>https://sercankulcu.github.io/courses-pdfs/dsa_c/pdf/Bolum_18_En_Kisa_Yol_ve_Aktivite_Aglari.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/dsa_c/pdf/Bolum_19_Temel_Siralama_Algoritmalari.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/dsa_c/pdf/Bolum_20_Ileri_Siralama_Algoritmalari.pdf</loc></url>
-  <url><loc>https://sercankulcu.github.io/courses-pdfs/java/Java-ile-Nesne-Yonelimli-Programlama.html</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/java/Java-ile-Nesne-Yonelimli-Programlama.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/java/pdf/Bolum_01_01_Bilgisayarlar.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/java/pdf/Bolum_01_02_Hesaplama_ve_Hesaplamali_Dusunme.pdf</loc></url>
@@ -145,7 +137,6 @@
   <url><loc>https://sercankulcu.github.io/courses-pdfs/java/pdf/Bolum_09_Grafikler_ve_Kullanici_Arayuzleri.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/java/pdf/Bolum_10_Is_Parcaciklari.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/java/pdf/Bolum_11_Veri_Tabani_Programlama.pdf</loc></url>
-  <url><loc>https://sercankulcu.github.io/courses-pdfs/microprocessors/Mikroislemciler.html</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/microprocessors/Mikroislemciler.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/microprocessors/pdf/Bolum_01_01_Giris.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/microprocessors/pdf/Bolum_01_02_Sayi_Sistemleri.pdf</loc></url>
@@ -166,7 +157,6 @@
   <url><loc>https://sercankulcu.github.io/courses-pdfs/microprocessors/pdf/Bolum_10_01_8086_Pinleri.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/microprocessors/pdf/Bolum_10_02_Aygit_Kontrolu.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/microprocessors/pdf/Bolum_11_Komut_Kodlama_ve_Dizgi_Komutlari.pdf</loc></url>
-  <url><loc>https://sercankulcu.github.io/courses-pdfs/os/Isletim-Sistemleri.html</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/os/Isletim-Sistemleri.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/os/pdf/Bolum_01_Giris.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/os/pdf/Bolum_02_Isletim_Sistemi_Yapilari.pdf</loc></url>
@@ -183,10 +173,7 @@
   <url><loc>https://sercankulcu.github.io/courses-pdfs/os/pdf/Bolum_13_Guvenlik.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/os/pdf/Bolum_14_Isletim_Sistemi_Tasarimi.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/os/pdf/Bolum_15_Linux.pdf</loc></url>
-  <url><loc>https://sercankulcu.github.io/courses-pdfs/papers/2025-hazelnut-resnet50-vs-shufflenet.html</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/papers/2025-hazelnut-resnet50-vs-shufflenet.pdf</loc></url>
-  <url><loc>https://sercankulcu.github.io/courses-pdfs/papers/2025-hazelnut-shufflenet-parameter-selection.html</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/papers/2025-hazelnut-shufflenet-parameter-selection.pdf</loc></url>
-  <url><loc>https://sercankulcu.github.io/courses-pdfs/presentations/766420.html</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/presentations/766420.pdf</loc></url>
 </urlset>

@@ -15,8 +15,7 @@ into this repository when it is cloned next to the main one
 
 `.nojekyll` turns off the Jekyll build, so files are published as they are.
 
-Next to each book, paper and the PhD thesis there is an HTML landing page with
-the same name (`data_structures/Veri-Yapilari.html`). It carries the
-`citation_*` meta tags Google Scholar reads, and `sitemap.xml` lists every PDF
-and landing page. Both are written by `tools/make_pdf_pages.py` in the main
-repository (the main site's `robots.txt` points to the sitemap).
+`sitemap.xml` lists every PDF; it is written by `tools/make_pdf_pages.py` in
+the main repository, whose `robots.txt` points to it. The Google Scholar landing
+pages for the books, papers and thesis live on the main site
+(`/books/...`, `/publications/...`), not here.
