@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://sercankulcu.github.io/courses-pdfs/Sercan_Kulcu_CV.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/advanced_algorithms/Ileri-Algoritmalar.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/advanced_algorithms/pdf/Bolum_01_Bol_ve_Fethet_Yaklasimi.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/advanced_algorithms/pdf/Bolum_02_Acgozlu_Algoritmalar.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/advanced_algorithms/pdf/Bolum_03_Dinamik_Programlama.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/advanced_algorithms/pdf/Bolum_04_Geri_Izleme_Algoritmalari.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/advanced_algorithms/pdf/Bolum_05_Dal_Sinir_Algoritmalari.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/advanced_algorithms/pdf/Bolum_06_Yaklasim_Algoritmalari.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/advanced_algorithms/pdf/Bolum_07_Rastgele_Algoritmalar.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/advanced_algorithms/pdf/Bolum_08_Cevrim_Ici_Algoritmalar.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/advanced_algorithms/pdf/Bolum_09_Paralel_Algoritmalar.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/agt/Algoritmik-Oyun-Kurami.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/agt/pdf/Bolum_00_Hazirlik.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/agt/pdf/Bolum_01_Karar_Kurami.pdf</loc></url>
@@ -30,15 +40,6 @@
   <url><loc>https://sercankulcu.github.io/courses-pdfs/algorithms/pdf/Bolum_05_01_Dizgi_Eslestirme_ve_Sikistirma.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/algorithms/pdf/Bolum_05_02_Ileri_Dizgi_Algoritmalari.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/algorithms/pdf/Bolum_05_03_Trie_Veri_Yapisi.pdf</loc></url>
-  <url><loc>https://sercankulcu.github.io/courses-pdfs/algorithms/pdf/Bolum_06_Bol_ve_Fethet_Yaklasimi.pdf</loc></url>
-  <url><loc>https://sercankulcu.github.io/courses-pdfs/algorithms/pdf/Bolum_07_Acgozlu_Algoritmalar.pdf</loc></url>
-  <url><loc>https://sercankulcu.github.io/courses-pdfs/algorithms/pdf/Bolum_08_Dinamik_Programlama.pdf</loc></url>
-  <url><loc>https://sercankulcu.github.io/courses-pdfs/algorithms/pdf/Bolum_09_Geri_Izleme_Algoritmalari.pdf</loc></url>
-  <url><loc>https://sercankulcu.github.io/courses-pdfs/algorithms/pdf/Bolum_10_Dal_Sinir_Algoritmalari.pdf</loc></url>
-  <url><loc>https://sercankulcu.github.io/courses-pdfs/algorithms/pdf/Bolum_11_Yaklasim_Algoritmalari.pdf</loc></url>
-  <url><loc>https://sercankulcu.github.io/courses-pdfs/algorithms/pdf/Bolum_12_Rastgele_Algoritmalar.pdf</loc></url>
-  <url><loc>https://sercankulcu.github.io/courses-pdfs/algorithms/pdf/Bolum_13_Cevrim_Ici_Algoritmalar.pdf</loc></url>
-  <url><loc>https://sercankulcu.github.io/courses-pdfs/algorithms/pdf/Bolum_14_Paralel_Algoritmalar.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/c/Programming-with-C.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/computer/Bilgisayar-ve-Programlamaya-Giris.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/computer/pdf/Bolum_01_01_Temel_Kavramlar.pdf</loc></url>
