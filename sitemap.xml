@@ -15,6 +15,15 @@
   <url><loc>https://sercankulcu.github.io/courses-pdfs/advanced_algorithms/pdf/Bolum_08_Cevrim_Ici_Algoritmalar.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/advanced_algorithms/pdf/Bolum_08_Cevrim_Ici_Algoritmalar_Calisma_Sorulari.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/advanced_algorithms/pdf/Bolum_09_Paralel_Algoritmalar.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/advanced_algorithms/pdf/Chapter_01_Divide_and_Conquer.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/advanced_algorithms/pdf/Chapter_02_Greedy_Algorithms.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/advanced_algorithms/pdf/Chapter_03_Dynamic_Programming.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/advanced_algorithms/pdf/Chapter_04_Backtracking.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/advanced_algorithms/pdf/Chapter_05_Branch_and_Bound.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/advanced_algorithms/pdf/Chapter_06_Approximation_Algorithms.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/advanced_algorithms/pdf/Chapter_07_Randomized_Algorithms.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/advanced_algorithms/pdf/Chapter_08_Online_Algorithms.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/advanced_algorithms/pdf/Chapter_09_Parallel_Algorithms.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/agt/Algoritmik-Oyun-Kurami.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/agt/pdf/Bolum_00_Hazirlik.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/agt/pdf/Bolum_01_Karar_Kurami.pdf</loc></url>
@@ -32,6 +41,22 @@
   <url><loc>https://sercankulcu.github.io/courses-pdfs/agt/pdf/Bolum_12_Davranissal_ve_Kolektif_Karar.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/agt/pdf/Bolum_13_Ogrenme_ve_Adaptasyon.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/agt/pdf/Bolum_14_Gelecek_Yonelimler.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/agt/pdf/Chapter_00_Preliminaries.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/agt/pdf/Chapter_01_Decision_Theory.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/agt/pdf/Chapter_02_Games_and_Representations.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/agt/pdf/Chapter_02_Minimax_and_Alpha_Beta_Pruning.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/agt/pdf/Chapter_03_Nash_Equilibrium.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/agt/pdf/Chapter_04_Mechanism_Design.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/agt/pdf/Chapter_05_Auctions.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/agt/pdf/Chapter_06_Online_Platforms.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/agt/pdf/Chapter_07_Social_Choice_and_Voting.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/agt/pdf/Chapter_08_Network_Design_and_Routing.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/agt/pdf/Chapter_09_Price_of_Anarchy.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/agt/pdf/Chapter_10_Multi_Agent_Systems.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/agt/pdf/Chapter_11_Algorithmic_Fairness_and_Ethics.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/agt/pdf/Chapter_12_Behavioral_and_Collective_Decisions.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/agt/pdf/Chapter_13_Learning_and_Adaptation.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/agt/pdf/Chapter_14_Future_Directions.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/algorithms/Algoritmalar.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/algorithms/pdf/Bolum_01_Giris.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/algorithms/pdf/Bolum_02_Algoritma_Karmasikligi.pdf</loc></url>
@@ -48,6 +73,17 @@
   <url><loc>https://sercankulcu.github.io/courses-pdfs/algorithms/pdf/Bolum_09_Dizgi_Eslestirme_ve_Sikistirma.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/algorithms/pdf/Bolum_10_Ileri_Dizgi_Algoritmalari.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/algorithms/pdf/Bolum_11_Trie_Veri_Yapisi.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/algorithms/pdf/Chapter_01_Introduction.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/algorithms/pdf/Chapter_02_Algorithm_Complexity.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/algorithms/pdf/Chapter_03_Sorting_Algorithms.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/algorithms/pdf/Chapter_04_Searching_Algorithms.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/algorithms/pdf/Chapter_05_Graph_Traversal.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/algorithms/pdf/Chapter_06_Shortest_Paths.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/algorithms/pdf/Chapter_07_Minimum_Spanning_Trees.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/algorithms/pdf/Chapter_08_Network_Flow.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/algorithms/pdf/Chapter_09_String_Matching_and_Compression.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/algorithms/pdf/Chapter_10_Advanced_String_Algorithms.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/algorithms/pdf/Chapter_11_Tries.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/c/Programming-with-C.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/computer/Bilgisayar-ve-Programlamaya-Giris.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/computer/pdf/Bolum_01_01_Temel_Kavramlar.pdf</loc></url>
@@ -71,6 +107,27 @@
   <url><loc>https://sercankulcu.github.io/courses-pdfs/computer/pdf/Bolum_10_Diziler.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/computer/pdf/Bolum_11_Dizgiler.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/computer/pdf/Bolum_12_Ozyineleme.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/computer/pdf/Chapter_01_01_Basic_Concepts.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/computer/pdf/Chapter_01_02_Computer_Hardware.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/computer/pdf/Chapter_01_03_Computers.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/computer/pdf/Chapter_01_04_The_Internet.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/computer/pdf/Chapter_01_05_Computation_and_Computational_Thinking.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/computer/pdf/Chapter_02_01_Software_and_Operating_Systems.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/computer/pdf/Chapter_02_02_The_Windows_Operating_System.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/computer/pdf/Chapter_03_01_Microsoft_Word.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/computer/pdf/Chapter_03_02_Microsoft_Excel.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/computer/pdf/Chapter_03_03_Microsoft_PowerPoint.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/computer/pdf/Chapter_04_01_Algorithms.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/computer/pdf/Chapter_04_02_Flowcharts.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/computer/pdf/Chapter_04_03_Introduction_to_Programming.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/computer/pdf/Chapter_05_Getting_Started_with_Java.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/computer/pdf/Chapter_06_Variables_Data_Types_and_Operators.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/computer/pdf/Chapter_07_Conditionals.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/computer/pdf/Chapter_08_Loops.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/computer/pdf/Chapter_09_Methods.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/computer/pdf/Chapter_10_Arrays.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/computer/pdf/Chapter_11_Strings.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/computer/pdf/Chapter_12_Recursion.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/data_structures/Data-Structures.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/data_structures/Veri-Yapilari.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/data_structures/pdf/Bolum_01_Giris.pdf</loc></url>
@@ -122,6 +179,26 @@
   <url><loc>https://sercankulcu.github.io/courses-pdfs/dsa_c/pdf/Bolum_18_En_Kisa_Yol_ve_Aktivite_Aglari.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/dsa_c/pdf/Bolum_19_Temel_Siralama_Algoritmalari.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/dsa_c/pdf/Bolum_20_Ileri_Siralama_Algoritmalari.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/dsa_c/pdf/Chapter_01_Introduction_and_Algorithm_Analysis.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/dsa_c/pdf/Chapter_02_Arrays_and_Structures.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/dsa_c/pdf/Chapter_03_Recursion_Binary_Search_and_Backtracking.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/dsa_c/pdf/Chapter_04_Linked_Lists.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/dsa_c/pdf/Chapter_05_Polynomials_and_Sparse_Matrices.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/dsa_c/pdf/Chapter_06_Stacks.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/dsa_c/pdf/Chapter_07_Queues.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/dsa_c/pdf/Chapter_08_Stack_and_Queue_Applications.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/dsa_c/pdf/Chapter_09_List_ADT_and_Generalized_Lists.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/dsa_c/pdf/Chapter_10_Trees.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/dsa_c/pdf/Chapter_11_Search_Trees.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/dsa_c/pdf/Chapter_12_Threaded_Binary_Trees.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/dsa_c/pdf/Chapter_13_Priority_Queues_and_Heaps.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/dsa_c/pdf/Chapter_14_Hash_Tables.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/dsa_c/pdf/Chapter_15_Graphs.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/dsa_c/pdf/Chapter_16_Sets_and_Union_Find.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/dsa_c/pdf/Chapter_17_Minimum_Spanning_Trees.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/dsa_c/pdf/Chapter_18_Shortest_Paths_and_Activity_Networks.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/dsa_c/pdf/Chapter_19_Basic_Sorting_Algorithms.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/dsa_c/pdf/Chapter_20_Advanced_Sorting_Algorithms.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/java/Java-ile-Nesne-Yonelimli-Programlama.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/java/pdf/Bolum_01_01_Bilgisayarlar.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/java/pdf/Bolum_01_02_Hesaplama_ve_Hesaplamali_Dusunme.pdf</loc></url>
@@ -146,6 +223,29 @@
   <url><loc>https://sercankulcu.github.io/courses-pdfs/java/pdf/Bolum_09_Grafikler_ve_Kullanici_Arayuzleri.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/java/pdf/Bolum_10_Is_Parcaciklari.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/java/pdf/Bolum_11_Veri_Tabani_Programlama.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/java/pdf/Chapter_01_01_Computers.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/java/pdf/Chapter_01_02_Computation_and_Computational_Thinking.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/java/pdf/Chapter_01_03_Algorithms.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/java/pdf/Chapter_01_04_Flowcharts.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/java/pdf/Chapter_02_01_Programming.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/java/pdf/Chapter_02_02_Syntax_Rules.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/java/pdf/Chapter_03_01_Control_Structures.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/java/pdf/Chapter_03_02_Methods.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/java/pdf/Chapter_03_03_Arrays.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/java/pdf/Chapter_03_04_Strings.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/java/pdf/Chapter_03_05_Recursion.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/java/pdf/Chapter_04_01_Objects_and_Classes.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/java/pdf/Chapter_04_02_Encapsulation.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/java/pdf/Chapter_04_03_Inheritance.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/java/pdf/Chapter_04_04_Polymorphism.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/java/pdf/Chapter_04_05_Abstract_Classes_and_Interfaces.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/java/pdf/Chapter_05_Collections.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/java/pdf/Chapter_06_Exceptions.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/java/pdf/Chapter_07_Testing_and_Debugging.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/java/pdf/Chapter_08_Input_and_Output.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/java/pdf/Chapter_09_Graphics_and_User_Interfaces.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/java/pdf/Chapter_10_Threads.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/java/pdf/Chapter_11_Database_Programming.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/microprocessors/Mikroislemciler.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/microprocessors/pdf/Bolum_01_01_Giris.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/microprocessors/pdf/Bolum_01_02_Sayi_Sistemleri.pdf</loc></url>
@@ -166,6 +266,25 @@
   <url><loc>https://sercankulcu.github.io/courses-pdfs/microprocessors/pdf/Bolum_10_01_8086_Pinleri.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/microprocessors/pdf/Bolum_10_02_Aygit_Kontrolu.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/microprocessors/pdf/Bolum_11_Komut_Kodlama_ve_Dizgi_Komutlari.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/microprocessors/pdf/Chapter_01_01_Introduction.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/microprocessors/pdf/Chapter_01_02_Number_Systems.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/microprocessors/pdf/Chapter_02_01_8086_Architecture.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/microprocessors/pdf/Chapter_02_02_8086_Registers.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/microprocessors/pdf/Chapter_03_01_Programming_Languages.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/microprocessors/pdf/Chapter_03_02_Assembly_Language.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/microprocessors/pdf/Chapter_04_01_Memory_Access.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/microprocessors/pdf/Chapter_04_02_Variables.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/microprocessors/pdf/Chapter_05_01_Interrupts.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/microprocessors/pdf/Chapter_05_02_Interrupt_Functions.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/microprocessors/pdf/Chapter_06_Arithmetic_Logic_and_Shift_Instructions.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/microprocessors/pdf/Chapter_07_Flow_Control.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/microprocessors/pdf/Chapter_08_01_The_Stack.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/microprocessors/pdf/Chapter_08_02_Procedures.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/microprocessors/pdf/Chapter_09_01_Macros.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/microprocessors/pdf/Chapter_09_02_The_emu8086_inc_Library.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/microprocessors/pdf/Chapter_10_01_8086_Pins.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/microprocessors/pdf/Chapter_10_02_Device_Control.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/microprocessors/pdf/Chapter_11_Instruction_Encoding_and_String_Instructions.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/os/Isletim-Sistemleri.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/os/pdf/Bolum_01_Giris.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/os/pdf/Bolum_02_Isletim_Sistemi_Yapilari.pdf</loc></url>
@@ -182,6 +301,21 @@
   <url><loc>https://sercankulcu.github.io/courses-pdfs/os/pdf/Bolum_13_Guvenlik.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/os/pdf/Bolum_14_Isletim_Sistemi_Tasarimi.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/os/pdf/Bolum_15_Linux.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/os/pdf/Chapter_01_Introduction.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/os/pdf/Chapter_02_Operating_System_Structures.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/os/pdf/Chapter_03_Processes.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/os/pdf/Chapter_04_Threads.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/os/pdf/Chapter_05_CPU_Scheduling.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/os/pdf/Chapter_06_Synchronization.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/os/pdf/Chapter_07_Deadlocks.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/os/pdf/Chapter_08_Memory_Management.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/os/pdf/Chapter_09_Virtual_Memory.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/os/pdf/Chapter_10_File_Systems.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/os/pdf/Chapter_11_Input_Output.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/os/pdf/Chapter_12_Multiprocessor_Systems.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/os/pdf/Chapter_13_Security.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/os/pdf/Chapter_14_Operating_System_Design.pdf</loc></url>
+  <url><loc>https://sercankulcu.github.io/courses-pdfs/os/pdf/Chapter_15_Linux.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/papers/2025-hazelnut-resnet50-vs-shufflenet.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/papers/2025-hazelnut-shufflenet-parameter-selection.pdf</loc></url>
   <url><loc>https://sercankulcu.github.io/courses-pdfs/presentations/766420.pdf</loc></url>
